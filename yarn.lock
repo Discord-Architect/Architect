@@ -2,10 +2,10 @@
 # yarn lockfile v1
 
 
-"@discord-architect/arch@^1.1.5":
-  version "1.1.5"
-  resolved "https://registry.yarnpkg.com/@discord-architect/arch/-/arch-1.1.5.tgz#9158bf7d5fa78db9386e4572062216cfa4c60c3b"
-  integrity sha512-T+1WtKMh+Mb387WmyZAnzbwEspcgQB8H81QgxaXxxc7S5xKiKnCJLV6j3DSMMJWhzO2d87Q+71XnC6dEHjFv4g==
+"@discord-architect/arch@^1.1.6":
+  version "1.1.6"
+  resolved "https://registry.yarnpkg.com/@discord-architect/arch/-/arch-1.1.6.tgz#fc8f41ee0e6dcc3f679dd902543b3fe126dd1db3"
+  integrity sha512-KRfuDt56LcLoJdDljYmAeVsz3v4klI53twX6M7hLlbhtcGY/b0bbAF/HlS+iX1K+e7zmzNUvXUHOKs2Z2j49Vg==
   dependencies:
     "@discord-architect/core" "^1.1.2"
     "@discord-architect/env" "^1.0.1"
