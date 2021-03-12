@@ -1,0 +1,4 @@
+const execa = require('execa')
+const Arch = require('@discord-architect/arch')
+
+execa.node(Arch)
